@@ -169,17 +169,6 @@ Conversor de moedas simples.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexxnunes&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxnunes&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Formação
 
 - **Oracle Next Education (ONE) × Alura** (2025–2026) — Java, Spring Boot, APIs REST, PostgreSQL, Git/GitHub, desenvolvimento web
