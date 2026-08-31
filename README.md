@@ -29,9 +29,6 @@ Git/GitHub, desenvolvimento web e Spring Boot.
 Também me preocupo com segurança, boas práticas de documentação técnica e
 conformidade com a LGPD nos projetos que desenvolvo.
 
-> 💡 Em busca de oportunidades como desenvolvedor Java/Spring Boot, com foco em
-> backend robusto, APIs REST, infraestrutura e soluções completas.
-
 ---
 
 ## 🧰 Stack
