@@ -71,7 +71,7 @@ conformidade com a LGPD nos projetos que desenvolvo.
 ## 🚀 Projetos em destaque
 
 ### 🧁 Doce Iolanda — ERP Completo
-Sistema de gestão completo para padaria/confeitaria: pedidos, orçamentos,
+Sistema de gestão completo para padaria/confeitaria, em produção real: pedidos, orçamentos,
 produtos, receitas, produção, estoque, clientes, financeiro, fiscal, integração
 WhatsApp e dashboard.
 
@@ -82,12 +82,12 @@ WhatsApp e dashboard.
 - **Apresentação:** [github.com/alexxnunes/doce-iolanda-showcase](https://github.com/alexxnunes/doce-iolanda-showcase) *(código-fonte privado — repo é demonstração)*
 
 ### 🧁 Confeita ERP — SaaS para Confeitarias
-Sistema de gestão para confeitaria, desenvolvido para centralizar operações como
-produtos, pedidos, clientes, vendas e processos internos. Projeto baseado em uma
-aplicação real utilizada como base para evolução de um SaaS.
+Evolução do Doce Iolanda para um produto SaaS multi-tenant: mesma base de código,
+filosofia e ecossistema, reestruturados para atender múltiplas confeitarias com
+contas independentes, cobrança recorrente e arquitetura de segurança dedicada.
 
 - **Stack:** Java, Spring Boot, PostgreSQL, Docker
-- **Status:** Em desenvolvimento
+- **Status:** Em desenvolvimento (arquitetura multi-tenant, LGPD e integração de pagamentos Asaas)
 - **Apresentação:** [github.com/alexxnunes/confeita-showcase](https://github.com/alexxnunes/confeita-showcase) *(código-fonte privado — repo é demonstração)*
 
 ### 💰 FinGuardian AI — 2º Lugar Hackathon ONE G9 Brasil
