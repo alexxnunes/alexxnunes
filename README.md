@@ -153,7 +153,7 @@ Conversor de moedas simples.
 - **Repositório:** [github.com/alexxnunes/Conversor-de-moedas](https://github.com/alexxnunes/Conversor-de-moedas)
 
 <div align="center">
-<sub>Portfólio completo em <a href="https://alexxnunes.github.io/Portifolio-Dev/">alexxnunes.github.io/Portifolio-Dev</a></sub>
+<sub>Portfólio completo em <a href="https://alexxnunes.github.io/alexandernunes-dev">alexxnunes.github.io/Portifolio-Dev</a></sub>
 </div>
 
 ---
@@ -167,5 +167,5 @@ Conversor de moedas simples.
 ---
 
 <div align="center">
-<sub>Piracicaba, SP — Brasil</sub>
+<sub>Brasil</sub>
 </div>
